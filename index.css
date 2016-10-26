@@ -1,0 +1,36 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+h1, h2, h3, h4{
+  display:inline-block;
+}
+
+
+h1{
+  background-color: purple
+
+}
+
+h2{
+  background-color: blue
+}
+
+h3{
+  background: pink
+}
+
+
+h4{
+  background color: orange
+
+}
+
+
+p{
+  display: inline-block;
+  text-shadow: 5px;
+  text-align: center;
+  margin: 20px;
+}
